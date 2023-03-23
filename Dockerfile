@@ -19,4 +19,4 @@ ADD bh-config.txt /usr/local/blackhole/bh-config.txt
 
 USER 431
 
-CMD ["blackhole","-c","/usr/local/blackhole/bh-config.txt","-d"]
+CMD ["blackhole","-c","/usr/local/blackhole/bh-config.txt"]
